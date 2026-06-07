@@ -1,0 +1,10 @@
+total 8
+-rw-r--r--  1 ethanreinhart  staff   43 Aug 23 15:12 makemefolders.sh
+drwxr-xr-x  4 ethanreinhart  staff  128 Aug 23 15:16 p1
+drwxr-xr-x  2 ethanreinhart  staff   64 Aug 23 15:12 p2
+drwxr-xr-x  2 ethanreinhart  staff   64 Aug 23 15:12 p3
+drwxr-xr-x  2 ethanreinhart  staff   64 Aug 23 15:12 p4
+drwxr-xr-x  2 ethanreinhart  staff   64 Aug 23 15:12 p5
+drwxr-xr-x  2 ethanreinhart  staff   64 Aug 23 15:12 p6
+drwxr-xr-x  2 ethanreinhart  staff   64 Aug 23 15:12 p7
+drwxr-xr-x  2 ethanreinhart  staff   64 Aug 23 15:12 p8

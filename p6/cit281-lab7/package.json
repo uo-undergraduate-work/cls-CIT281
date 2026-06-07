@@ -1,0 +1,12 @@
+{
+  "name": "cit281-lab7",
+  "version": "1.0.0",
+  "description": "UO CIT 281 21S Lab 7",
+  "main": "lab-07.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
