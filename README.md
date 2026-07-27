@@ -104,3 +104,7 @@ following changes were made to the original snapshot:
   `.gitignore` files are retained since they are themselves part of the git lab.
 - Per-lab nested git repositories were flattened into this repository, so their individual
   commit histories are not preserved here.
+- Two empty directory trees in the original working copy (`p8/`, and an `ethan/` scaffold
+  containing `2024.08.23/`, `images/` and `js/`) held no files and are not represented
+  here, since git does not track empty directories. The Lab 1 directory exercise they came
+  from is documented in `p1/lab-01/lab-01-folders.txt`.
